@@ -1,2 +1,2 @@
-# Nuxrix
-Nuxt template for lazy people
+# Japan Railway Map
+This is a railway map of Japan using Open Street Map.
