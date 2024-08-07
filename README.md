@@ -1,2 +1,2 @@
-# Japan Railway Map
-This is a railway map of Japan using Open Street Map.
+# 日本鉄道マップ
+Open Street Mapを使った日本の鉄道地図

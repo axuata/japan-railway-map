@@ -1,0 +1,27 @@
+/* Reset CSS */
+@import url("https://cdn.jsdelivr.net/npm/modern-css-reset/dist/reset.min.css");
+
+/* Noto Sans JP Font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+/* Apply Noto Sans JP to all elements */
+* {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+/* Apply #0022ff to all links */
+a {
+  color: #0022ff;
+}
+
+/* Lunorix's Template Colors */
+:root {
+  --lunorix-common-fcolor-1: #000000;
+  --lunorix-common-fcolor-2: #0B0B0F;
+  --lunorix-common-fcolor-3: #424242;
+  --lunorix-common-fcolor-4: #5c5c5c;
+}
+
+//body {
+//  background-color: #fcfdff;
+//}
