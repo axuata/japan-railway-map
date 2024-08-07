@@ -101,6 +101,69 @@ const geojsonConfigs = [
     }),
     popupContent: '常磐緩行線'
   },
+  {
+    url: "/assets/geojson/jr_east-keiyo.geojson",
+    style: (feature) => ({
+      opacity: feature.properties.code / 100000,
+      color: "#c7252f",
+      weight: 6,
+    }),
+    popupContent: '京葉線'
+  },
+  {
+    url: "/assets/geojson/jr_east-musashino.geojson",
+    style: (feature) => ({
+      opacity: feature.properties.code / 100000,
+      color: "#ee5922",
+      weight: 6,
+    }),
+    popupContent: '武蔵野線'
+  },
+  {
+    url: "/assets/geojson/jr_east-nambu.geojson",
+    style: (feature) => ({
+      opacity: feature.properties.code / 100000,
+      color: "#ffd400",
+      weight: 6,
+    }),
+    popupContent: '南武線'
+  },
+  {
+    url: "/assets/geojson/jr_east-tsurumi.geojson",
+    style: (feature) => ({
+      opacity: feature.properties.code / 100000,
+      color: "#ffd400",
+      weight: 6,
+    }),
+    popupContent: '鶴見線'
+  },
+  {
+    url: "/assets/geojson/jr_east-yokohama.geojson",
+    style: (feature) => ({
+      opacity: feature.properties.code / 100000,
+      color: "#80c342",
+      weight: 6,
+    }),
+    popupContent: '横浜線'
+  },
+  {
+    url: "/assets/geojson/jr_east-sagami.geojson",
+    style: (feature) => ({
+      opacity: feature.properties.code / 100000,
+      color: "#009692",
+      weight: 6,
+    }),
+    popupContent: '相模線'
+  },
+  {
+    url: "/assets/geojson/jr_east-hachiko.geojson",
+    style: (feature) => ({
+      opacity: feature.properties.code / 100000,
+      color: "#a8a39d",
+      weight: 6,
+    }),
+    popupContent: '八高線'
+  },
 ]
 
 const geojson = ref([])

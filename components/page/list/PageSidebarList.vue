@@ -70,6 +70,48 @@
         lineName="常磐緩行線"
         stations="14"
         class="content" />
+    <PageSidebarListLineCard
+        lineSymbolSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/JR_JE_line_symbol.svg/1024px-JR_JE_line_symbol.svg.png"
+        lineColor="#c9252f"
+        lineName="京葉線"
+        stations="19"
+        class="content" />
+    <PageSidebarListLineCard
+        lineSymbolSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JR_JM_line_symbol.svg/1024px-JR_JM_line_symbol.svg.png"
+        lineColor="#ee5922"
+        lineName="武蔵野線"
+        stations="29"
+        class="content" />
+    <PageSidebarListLineCard
+        lineSymbolSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JR_JN_line_symbol.svg/1024px-JR_JN_line_symbol.svg.png"
+        lineColor="#ffd400"
+        lineName="南武線"
+        stations="30"
+        class="content" />
+    <PageSidebarListLineCard
+        lineSymbolSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JR_JI_line_symbol.svg/1024px-JR_JI_line_symbol.svg.png"
+        lineColor="#ffd400"
+        lineName="鶴見線"
+        stations="13"
+        class="content" />
+    <PageSidebarListLineCard
+        lineSymbolSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JR_JH_line_symbol.svg/1024px-JR_JH_line_symbol.svg.png"
+        lineColor="#80c342"
+        lineName="横浜線"
+        stations="20"
+        class="content" />
+    <PageSidebarListLineCard
+        lineSymbolSrc="https://placehold.jp/64x64.png"
+        lineColor="#009692"
+        lineName="相模線"
+        stations="18"
+        class="content" />
+    <PageSidebarListLineCard
+        lineSymbolSrc="https://placehold.jp/64x64.png"
+        lineColor="#a8a39d"
+        lineName="八高線"
+        stations="23"
+        class="content" />
   </div>
 </template>
 
